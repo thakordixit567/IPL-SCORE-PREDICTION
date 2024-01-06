@@ -12,6 +12,4 @@
 - Deployed using Flask.  
 - Just run app.py and go to localhost to see the results.  
 
-
-
-![](ipl.gif)
+![image]()
