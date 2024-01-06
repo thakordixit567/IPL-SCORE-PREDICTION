@@ -12,4 +12,4 @@
 - Deployed using Flask.  
 - Just run app.py and go to localhost to see the results.  
 
-![image]()
+![image](https://github.com/thakordixit567/IPL-SCORE-PREDICTION/blob/master/img/ipls.png)
